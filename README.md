@@ -1,4 +1,4 @@
-# NextJS Auth
+# NextJS Auth Template
 
 Basic NextJS template with authentication.
 
